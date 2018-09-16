@@ -1,0 +1,40 @@
+.new, .row {
+    padding: 5px;
+    text-align: center;
+    background-color: #0000FF;
+    border: solid 1px #0000FF;
+}
+
+.new {
+    padding: 50px;
+    display: none;
+}
+
+.new1, .row1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #008080;
+    border: solid 1px #008080;
+}
+
+.new1 {
+    padding: 50px;
+    display: none;
+}
+
+.new2, .row2 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+.new2 {
+    padding: 50px;
+    display: none;
+}
+
+.underline {
+
+    text-decoration: underline;
+}
